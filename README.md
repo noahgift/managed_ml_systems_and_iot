@@ -1,1 +1,3 @@
-# managed_ml_systems_and_iot
+# Managed Machine Learning Systems and Internet of Things
+## Learn the building blocks of Managed ML and Hardware AI with Python
+
