@@ -1,5 +1,10 @@
+
+
+
 # Managed Machine Learning Systems and Internet of Things
 ## Learn the building blocks of Managed ML and Hardware AI with Python
+
+This is a course on Safari, you can [book an upcoming live training here](https://www.safaribooksonline.com/search/?query=noah%20gift).
 
 ### Day 1 (3 Hours)
 #### Learn Introductory Concepts in Hardware AI and IoT (45 Minutes)
