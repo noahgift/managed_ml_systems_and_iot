@@ -3,6 +3,7 @@
 
 ### Day 1 (3 Hours)
 #### Learn Introductory Concepts in Hardware AI and IoT (45 Minutes)
+
 •	Explore current state of Hardware AI chips and IoT technology
 •	Learn what TPUs are, and classify handwriting samples using Google Cloud Platform (GCP) and TensorFlow
 •	Learn how GPUs accelerate Machine Learning workloads on both AWS (Amazon Web Services) and GCP
@@ -10,6 +11,7 @@
 •	Learn about dedicated neural network hardware in Apple’s A11 chip for the iPhone
 
 #### AWS IoT programming fundamentals (45 Minutes)
+
 •	Demo the AWS Greengrass IoT Framework
 •	Demo AWS DeepLens SDK including custom Sagemaker model deployment
 •	Demo Raspberry Pi and AWS Greengrass integration
