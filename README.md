@@ -1,10 +1,19 @@
-
-
-
 # Managed Machine Learning Systems and Internet of Things
 ## Learn the building blocks of Managed ML and Hardware AI with Python
 
 This is a course on Safari, you can [book an upcoming live training here](https://www.safaribooksonline.com/search/?query=noah%20gift).
+
+## Pragmatic AI Labs
+![Pragmatic AI Labs](https://paiml.com/images/logo_with_slogan_white_background.png)
+
+These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml.com/).  You can continue learning about these topics by:
+
+*   Buying a copy of [Pragmatic AI: An Introduction to Cloud-Based Machine Learning](https://amzn.to/2LFLVEg)
+*   Reading online with Safari:  [Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition](https://www.safaribooksonline.com/library/view/pragmatic-ai-an/9780134863924/)
+*   Register for an [upcoming online training on Safari](https://www.safaribooksonline.com/search/?query=noah%20gift).
+*   Browsing [Pragmatic AI Source Code](https://github.com/noahgift/pragmaticai)
+*   Viewing more content at [noahgift.com](https://noahgift.com/)
+*   Viewing more content at [Pragmatic AI Labs](https://paiml.com/)
 
 ### Day 1 (3 Hours)
 #### Learn Introductory Concepts in Hardware AI and IoT (45 Minutes)
