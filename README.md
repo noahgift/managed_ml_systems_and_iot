@@ -1,7 +1,7 @@
 # Managed Machine Learning Systems and Internet of Things
 ## Learn the building blocks of Managed ML and Hardware AI with Python
 
-![Managed ML](https://user-images.githubusercontent.com/58792/45260745-f10cf700-b3a3-11e8-9652-3eadfd177ff2.jpeg)
+![Managed ML](https://user-images.githubusercontent.com/58792/45260894-08e67a00-b3a8-11e8-941f-e539cb10f8e1.jpg)
 
 This is a course on Safari, you can [book an upcoming live training here](https://www.safaribooksonline.com/search/?query=noah%20gift).
 
