@@ -29,9 +29,9 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 * Day 2 (About 3 Hours):  **Managed ML & AutoML**
 
-  - Part D: AWS Managed ML & AutoML  
-  - Part E: GCP Managed ML & AutoML
-  - Part F: Azure Managed ML & AutoML
+  - Part D: [AWS Managed ML & AutoML]
+  - Part E: [GCP Managed ML & AutoML]
+  - Part F: [Azure Managed ML & AutoML]
 
 ### Day 1 (3 Hours)
 #### Learn Introductory Concepts in Hardware AI and IoT (45 Minutes)
