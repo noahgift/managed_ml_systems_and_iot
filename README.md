@@ -32,8 +32,8 @@ Course Dates:
 * Day 1 (About 3 Hours):  **Hardware AI**
 
   - Part A:  [Chips](https://colab.research.google.com/drive/1fv3wJsTpAtTpLnNwz0rGTNcLLYO_3Vq7)
-  - Part B:  [Embedded Machine Intelligence Platforms](https://colab.research.google.com/drive/1B0Y4X3zOucECTp2HNGOVrHqTU4w7MQdL)
-  - Part C:  [iOS CoreML]
+  - Part B:  [Cloud-Native Hardware AI Platforms](https://colab.research.google.com/drive/1KmBBSJTju3xgVzFuzGcfTlXMzJIDofH6)
+  - Part C:  [Edge Machine Learning](https://colab.research.google.com/drive/1Q1UY2gK2qfx9aMPGEoRv7sqlzk7zbIJR)
 
 * Day 2 (About 3 Hours):  **Managed ML & AutoML**
 
