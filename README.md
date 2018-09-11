@@ -22,7 +22,9 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 ### Colab Noteboks
 
 Title:  **Managed Machine Learning Systems and Internet of Things**
+
 Description:  *Learn the building blocks of Managed ML and Hardware AI with Python*
+
 Course Dates:
 
 * [September 11 & 12, 2018](https://www.safaribooksonline.com/live-training/courses/managed-machine-learning-systems-and-internet-of-things/0636920208303/)
