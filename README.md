@@ -29,7 +29,7 @@ Course Dates:
 * [October 4 & 5th, 2018](https://www.safaribooksonline.com/live-training/courses/managed-machine-learning-systems-and-internet-of-things/0636920216605/)
 * [November 1 & 2, 2018](https://www.safaribooksonline.com/live-training/courses/managed-machine-learning-systems-and-internet-of-things/0636920216667/)
 
-* Day 1 (About 3 Hours):  **Hardware AI**
+* Day 1 (About 3 Hours):  **Hardware AI & Cloud-Native AI Platforms**
 
   - Part A:  [Chips](https://colab.research.google.com/drive/1fv3wJsTpAtTpLnNwz0rGTNcLLYO_3Vq7)
   - Part B:  [Cloud-Native Hardware AI Platforms](https://colab.research.google.com/drive/1KmBBSJTju3xgVzFuzGcfTlXMzJIDofH6)
