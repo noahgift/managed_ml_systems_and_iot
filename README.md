@@ -21,14 +21,15 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 ### Colab Noteboks
 
-* Day 1 (About 3 Hours)
+* Day 1 (About 3 Hours):  **Hardware AI**
 
   - Part A:  [Chips](https://colab.research.google.com/drive/1hQAbQk2_wOsssQPWKyC_T7utbWEda5Vt)
   - Part B:  [Embedded Machine Intelligence Platforms](https://colab.research.google.com/drive/1B0Y4X3zOucECTp2HNGOVrHqTU4w7MQdL)
+  - Part C:  [iOS CoreML]
 
 * Day 2 (About 3 Hours)
 
-  - Part C: 
+ 
   - Part D:  
 
 
