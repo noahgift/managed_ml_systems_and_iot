@@ -27,11 +27,11 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
   - Part B:  [Embedded Machine Intelligence Platforms](https://colab.research.google.com/drive/1B0Y4X3zOucECTp2HNGOVrHqTU4w7MQdL)
   - Part C:  [iOS CoreML]
 
-* Day 2 (About 3 Hours)
+* Day 2 (About 3 Hours):  **Managed ML & AutoML**
 
- 
-  - Part D:  
-
+  - Part D: AWS Managed ML & AutoML  
+  - Part E: GCP Managed ML & AutoML
+  - Part F: Azure Managed ML & AutoML
 
 ### Day 1 (3 Hours)
 #### Learn Introductory Concepts in Hardware AI and IoT (45 Minutes)
