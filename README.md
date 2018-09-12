@@ -19,7 +19,7 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 *   Viewing more content at [noahgift.com](https://noahgift.com/)
 *   Viewing more content at [Pragmatic AI Labs](https://paiml.com/)
 
-### Colab Notebooks
+### Colab Noteboks
 
 Title:  **Managed Machine Learning Systems and Internet of Things**
 
