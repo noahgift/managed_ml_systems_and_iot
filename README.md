@@ -39,7 +39,8 @@ Course Dates:
 
 * Day 2 (About 3 Hours):  **Managed ML & AutoML**
 
-  - Part D: [AWS Managed ML & AutoML]
-  - Part E: [GCP Managed ML & AutoML]
-  - Part F: [Azure Managed ML & AutoML]
+  - Part D: [Managed ML & AutoML Overview]
+  - Part E: [AWS Managed ML & AutoML]
+  - Part F: [GCP Managed ML & AutoML]
+  - Part G: [Azure Managed ML & AutoML]
 
