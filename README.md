@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/142620918.svg)](https://zenodo.org/badge/latestdoi/142620918)
 # Managed Machine Learning Systems and Internet of Things
 ## Learn the building blocks of Managed ML and Hardware AI with Python
 
