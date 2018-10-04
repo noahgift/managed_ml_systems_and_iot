@@ -45,5 +45,7 @@ Course Dates:
   - Part F: [GCP Managed ML & AutoML](https://colab.research.google.com/drive/1wXCFKRtUj633zU0lnVfUy5qqRIXjLJR2)
   - Part G: [Azure Managed ML & AutoML](https://colab.research.google.com/drive/1Z2w-UgAUnHmfQxhZcgP6kkHE8dmloE8R)
 
+You can also download notebooks here:  https://github.com/noahgift/managed_ml_systems_and_iot/tree/master/notebooks
+
 ### Text
 The text content of notebooks is released under the [CC-BY-NC-ND license](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/license.md)
