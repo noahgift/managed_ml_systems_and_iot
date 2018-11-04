@@ -47,5 +47,9 @@ Course Dates:
 
 You can also download notebooks here:  https://github.com/noahgift/managed_ml_systems_and_iot/tree/master/notebooks
 
+### References
+
+* [Forbes: How Vertically Integrated AI Stacks Will Affect IT Organizations](https://www.forbes.com/sites/forbestechcouncil/2018/11/02/how-vertically-integrated-ai-stacks-will-affect-it-organizations/#7a2f6f691713)
+
 ### Text
 The text content of notebooks is released under the [CC-BY-NC-ND license](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/license.md)
