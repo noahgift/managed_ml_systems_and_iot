@@ -34,7 +34,7 @@ Course Dates:
 
 * Day 1 (About 3 Hours):  **Hardware AI & Cloud-Native AI Platforms**
 
-  - Part A:  [Chips](https://colab.research.google.com/drive/1fv3wJsTpAtTpLnNwz0rGTNcLLYO_3Vq7)
+  - Part A:  [Chips](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_Chips.ipynb)
   - Part B:  [Cloud-Native Hardware AI Platforms](https://colab.research.google.com/drive/1KmBBSJTju3xgVzFuzGcfTlXMzJIDofH6)
   - Part C:  [Edge Machine Learning](https://colab.research.google.com/drive/1Q1UY2gK2qfx9aMPGEoRv7sqlzk7zbIJR)
 
