@@ -51,6 +51,7 @@ You can also download notebooks here:  https://github.com/noahgift/managed_ml_sy
 
 * [Forbes: How Vertically Integrated AI Stacks Will Affect IT Organizations](https://www.forbes.com/sites/forbestechcouncil/2018/11/02/how-vertically-integrated-ai-stacks-will-affect-it-organizations/#7a2f6f691713)
 * [Forbes:  Cloud Native Machine Learning and AI](https://www.forbes.com/sites/forbestechcouncil/2018/07/05/cloud-native-machine-learning-and-ai/#34c136ab5397)
+* [Forbes: Why There will Be No Data Science Job Titles in 2029](https://www.forbes.com/sites/forbestechcouncil/2019/02/04/why-there-will-be-no-data-science-job-titles-by-2029/#6cd8ed793a8f)
 
 ### Text
 The text content of notebooks is released under the [CC-BY-NC-ND license](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/license.md)
