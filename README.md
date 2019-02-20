@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/142620918.svg)](https://zenodo.org/badge/latestdoi/142620918)
 # Managed Machine Learning Systems and Internet of Things
 ## Learn the building blocks of Managed ML and Hardware AI with Python
 
@@ -55,3 +54,5 @@ You can also download notebooks here:  https://github.com/noahgift/managed_ml_sy
 
 ### Text
 The text content of notebooks is released under the [CC-BY-NC-ND license](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/license.md)
+
+[![DOI](https://zenodo.org/badge/142620918.svg)](https://zenodo.org/badge/latestdoi/142620918)
