@@ -35,15 +35,15 @@ Course Dates:
 * Day 1 (About 3 Hours):  **Hardware AI & Cloud-Native AI Platforms**
 
   - Part A:  [Chips](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_Chips.ipynb)
-  - Part B:  [Cloud-Native Hardware AI Platforms](https://colab.research.google.com/drive/1KmBBSJTju3xgVzFuzGcfTlXMzJIDofH6)
-  - Part C:  [Edge Machine Learning](https://colab.research.google.com/drive/1Q1UY2gK2qfx9aMPGEoRv7sqlzk7zbIJR)
+  - Part B:  [Cloud-Native Hardware AI Platforms](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_cloud_native_hardware_ai_platform.ipynb)
+  - Part C:  [Edge Machine Learning](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_Edge_Machine_Learning.ipynb)
 
 * Day 2 (About 3 Hours):  **Managed ML & AutoML**
 
-  - Part D: [Managed ML & AutoML Overview](https://colab.research.google.com/drive/13rfkBM5R3VBIv9Ci5gbUke_HFqIV9NvK)
-  - Part E: [AWS Managed ML & AutoML](https://colab.research.google.com/drive/1vSjIfoPbekC6Y7IMioazgI7ZBK1exNfa)
-  - Part F: [GCP Managed ML & AutoML](https://colab.research.google.com/drive/1wXCFKRtUj633zU0lnVfUy5qqRIXjLJR2)
-  - Part G: [Azure Managed ML & AutoML](https://colab.research.google.com/drive/1Z2w-UgAUnHmfQxhZcgP6kkHE8dmloE8R)
+  - Part D: [Managed ML & AutoML Overview](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_Overview_managed_ml_automl.ipynb)
+  - Part E: [AWS Managed ML & AutoML](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_AWS_managed_ml_automl.ipynb)
+  - Part F: [GCP Managed ML & AutoML](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_GCP_managed_ml_automl.ipynb)
+  - Part G: [Azure Managed ML & AutoML](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_AZURE_managed_ml_automl.ipynb)
 
 You can also download notebooks here:  https://github.com/noahgift/managed_ml_systems_and_iot/tree/master/notebooks
 
