@@ -36,6 +36,7 @@ Course Dates:
   - Part A:  [Chips](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_Chips.ipynb)
   - Part B:  [Cloud-Native Hardware AI Platforms](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_cloud_native_hardware_ai_platform.ipynb)
   - Part C:  [Edge Machine Learning](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/PROD_Edge_Machine_Learning.ipynb)
+  - Part D:  [TensorFlow Russian Dolls](https://github.com/noahgift/managed_ml_systems_and_iot/blob/master/TensorFlow_RussianDolls.ipynb)
 
 * Day 2 (About 3 Hours):  **Managed ML & AutoML**
 
