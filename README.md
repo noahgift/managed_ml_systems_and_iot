@@ -3,22 +3,6 @@
 
 ![Managed ML](https://user-images.githubusercontent.com/58792/45260894-08e67a00-b3a8-11e8-941f-e539cb10f8e1.jpg)
 
-## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
-
-### 🔥 Hot Course Offers:
-* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
-* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) - Industry-Grade Development
-* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) - Scale Your ML in Cloud
-* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) - Deploy at Enterprise Scale
-* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) - Automate Everything
-
-### 🚀 Level Up Your Career:
-* 💼 [Production ML Program](https://paiml.com) - Complete MLOps & Cloud Mastery
-* 🎯 [Start Learning Now](https://ds500.paiml.com) - Fast-Track Your ML Career
-* 🏢 Trusted by Fortune 500 Teams
-
-Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
-
 ## Pragmatic AI Labs
 ![Pragmatic AI Labs](https://paiml.com/images/logo_with_slogan_white_background.png)
 
@@ -93,3 +77,11 @@ His most recent online courses are:
 
 *   [Microservices with this Udacity DevOps Nanodegree (Udacity, 2019)](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
 *   [Command Line Automation in Python (DataCamp, 2019)](https://www.datacamp.com/instructors/ndgift)
+
+<!-- funnel:start -->
+---
+
+**Learn cloud and serverless engineering:** [Building Cloud Computing Solutions at Scale, Duke (Coursera)](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=managed_ml_systems_and_iot) · [Generative AI Development on AWS program (edX)](https://www.edx.org/certificates/professional-certificate/ai-generative-ai-development-on-aws?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=managed_ml_systems_and_iot)
+
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->
